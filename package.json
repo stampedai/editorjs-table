@@ -3,7 +3,7 @@
   "description": "Table for Editor.js",
   "version": "2.3.0",
   "license": "MIT",
-  "repository": "https://github.com/editor-js/table",
+  "repository": "https://github.com/stampedai/editorjs-table",
   "files": [
     "dist"
   ],
